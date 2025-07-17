@@ -13,9 +13,6 @@
     "email": "sabbir.m.siddiqui@gmail.com"
   },
   "bundleDependencies": false,
-  "dependencies": {
-    "requireindex": "~1.1.0"
-  },
   "deprecated": false,
   "devDependencies": {
     "eslint": "~3.9.1",
